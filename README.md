@@ -1,5 +1,8 @@
 # www.surveyorin.com
+![q1](https://user-images.githubusercontent.com/76985845/129849433-9559051e-19ac-4510-97e5-9e4f4c4d3912.JPG)
+![q2](https://user-images.githubusercontent.com/76985845/129849428-a77f98dc-81a4-4220-8ae7-b42d35a57d7d.JPG)
+![q3](https://user-images.githubusercontent.com/76985845/129849407-fadf9a93-a27f-4643-ab01-390442dbd747.JPG)
 
-![image](https://user-images.githubusercontent.com/76985845/129849116-68cd871b-fd7a-49cb-add2-906afede3d11.png)
-![image](https://user-images.githubusercontent.com/76985845/129849141-bbaeb9df-1def-4e98-840f-b42fa7db83b7.png)
-![image](https://user-images.githubusercontent.com/76985845/129849169-636a9e5e-9f30-425a-a69d-49a63d4c77bb.png)
+
+
+
